@@ -4,7 +4,7 @@ This program is for visualizing the hierarchical structure of natural cities usi
 
 <b>How to do:</b>
 
-Just <i> drag and drop </i> the related .shp file into the input field, then click <i> Start </i>. The result will be automatically saved in the same directory with your data files. 
+Just <i> drag and drop </i> the related .shp file into the input field, then click <i> Start </i>. The result will be automatically saved as "node.shp" and "link.shp" in the same directory with your data files. 
 
 Having ArcGIS SDK .NET installed is a prerequisite to run the program. Currently, the tool is compatible with ArcGIS 10.0 and 10.2.
 
