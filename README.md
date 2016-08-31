@@ -10,5 +10,5 @@ Having ArcGIS SDK .NET installed is a prerequisite to run the program. Currently
 
 Note that, if more than 1000 nodes, it might take a while for generating the result. Normally it takes 20 minutes for 6000 nodes.
 
-![layout7](https://cloud.githubusercontent.com/assets/6545129/18123182/0d6e77c0-6f6d-11e6-88f9-135c6a5dc210.jpg)
+![layout8](https://cloud.githubusercontent.com/assets/6545129/18123231/500bf90e-6f6d-11e6-8151-edc5550ab356.jpg)
 
