@@ -8,7 +8,7 @@ This program (.exe) is for visualizing the hierarchical structure of natural cit
 
 Having ArcGIS SDK .NET installed is a prerequisite to run the program. Currently, the tool is compatible with ArcGIS 10.0 and 10.2.
 
-Note that, if more than 1000 nodes, it might take a while for generating the result. Normally it takes 20 minutes for 6000 nodes.
+Note that, if more than 1000 nodes, it might take a while to generate the result. Normally it takes 20 minutes for 6000 nodes.
 
 ![layout10](https://cloud.githubusercontent.com/assets/6545129/18167640/fe4850b4-7051-11e6-8c26-b1500a3712cd.jpg)
 
